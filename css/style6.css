@@ -1,0 +1,22 @@
+@charset "UTF-8";
+.nav{
+    background: #f8f8f8;
+}
+.bread-bt{
+    background: #e3e3e3;
+}
+
+.footer .col-sm-10 p{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.li4{
+    background: #eee;
+}
+li.li4 p{
+    color: #23527c;
+}
+.al{
+    margin-left: 2%;
+}
